@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index version="1">
   <reapack
-      name="MegaGrit JSFX"
-      author="Deniz Saglam"
-      website="https://github.com/reincore/megagrit-jsfx" />
+    name="MegaGrit JSFX"
+    author="Deniz Saglam"
+    website="https://github.com/reincore/megagrit-jsfx"
+    desc="MegaGrit distortion JSFX plugin">
 
-  <package>
-    <add file="MegaGrit.jsfx"
-         type="effect"
-         author="Deniz Saglam"
-         version="1.0.0"
-         changelog="Initial public release" />
-  </package>
+    <package
+      name="MegaGrit"
+      type="effect"
+      author="Deniz Saglam"
+      desc="A powerful and versatile distortion effect">
+      <version
+        name="1.0.0"
+        author="Deniz Saglam"
+        changelog="Initial public release">
+        <source main="true">https://github.com/reincore/megagrit-jsfx/raw/main/MegaGrit.jsfx</source>
+      </version>
+    </package>
+  </reapack>
 </index>
