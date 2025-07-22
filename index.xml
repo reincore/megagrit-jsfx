@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index version="1">
   <reapack
-    name="MegaGrit JSFX"
+    name="MegaGrit"
     author="Deniz Saglam"
     website="https://github.com/reincore/megagrit-jsfx"
     desc="MegaGrit distortion JSFX plugin">
