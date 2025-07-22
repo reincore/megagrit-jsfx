@@ -1,14 +1,17 @@
-<reapack name="MegaGrit JSFX" type="extension" desc="MegaGrit JSFX Plugin">
-    <category name="Effects">
-        <item desc="MegaGrit">
-            <version name="1.0.0" author="reincore" time="2025-07-22T01:21:00Z">
-                <source main="true">https://github.com/reincore/megagrit-jsfx/raw/main/MegaGrit.jsfx</source>
-                <changelog>
-                    <![CDATA[
-- Initial release
-                    ]]>
-                </changelog>
-            </version>
-        </item>
-    </category>
-</reapack>
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="MegaGrit JSFX">
+    <reapack name="MegaGrit JSFX" type="extension" desc="MegaGrit JSFX Plugin">
+        <category name="Effects">
+            <item desc="MegaGrit">
+                <version name="1.0.0" author="reincore" time="2025-07-22T01:21:00Z">
+                    <source main="true">https://github.com/reincore/megagrit-jsfx/raw/main/MegaGrit.jsfx</source>
+                    <changelog>
+                        <![CDATA[
+    - Initial release
+                        ]]>
+                    </changelog>
+                </version>
+            </item>
+        </category>
+    </reapack>
+</index>
