@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index version="1">
-  <reapack name="MegaGrit JSFX"
-           author="Deniz Saglam"
-           type="effect"
-           website="https://github.com/reincore/megagrit-jsfx" />
+  <reapack
+      name="MegaGrit JSFX"
+      author="Deniz Saglam"
+      website="https://github.com/reincore/megagrit-jsfx" />
+
   <package>
     <add file="MegaGrit.jsfx"
          type="effect"
